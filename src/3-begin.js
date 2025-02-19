@@ -10,19 +10,19 @@ try{
 }
 
 // RangeError - when you try to use a value that is out of a valid numeric range
-try{
-    "hello".repeat(-1); // RangeError: Invalid count value: -1
-}catch(error){
-    console.log(error)
-}
+// try{
+//     "hello".repeat(-1); // RangeError: Invalid count value: -1
+// }catch(error){
+//     console.log(error)
+// }
 
 // RangeError - when you try to use a value that is out of a valid numeric range
-try{
-    // another range error example
-    const array = new Array(-1); // RangeError: Invalid array length
-}catch(error){
-    console.log(error)
-}
+// try{
+//     // another range error example
+//     const array = new Array(-1); // RangeError: Invalid array length
+// }catch(error){
+//     console.log(error)
+// }
 
 // Syntax Error - when you have something that cannot be parsed in terms of syntax
 // try{
@@ -44,12 +44,12 @@ try{
 
 // Type Error - when you assign a value to an object 
 // property or variable that cannot be changed
-try{
-    const hello = "world";
-    hello = "something else"
-}catch(error){
-    console.log(error);
-}
+// try{
+//     const hello = "world";
+//     hello = "something else"
+// }catch(error){
+//     console.log(error);
+// }
 
 // Type Error - when you try to access a 
 // property of an object that does not exist

@@ -8,19 +8,19 @@ const navLinks = [
     href: "/2-end",
   },
   {
-    label: "Lesson 3 Begin Types of Errors",
+    label: "Lesson 3 Types of Errors Begin",
     href: "/3-begin",
   },
   {
-    label: "Lesson 3 End Types of Errors",
+    label: "Lesson 3 Types of Errors End",
     href: "/3-end",
   },
   {
-    label: "4 Begin",
+    label: "Lesson 4 Custom Errors Begin",
     href: "/4-begin",
   },
   {
-    label: "4 End",
+    label: "Lesson 4 Custom Errors End",
     href: "/4-end",
   },
   {

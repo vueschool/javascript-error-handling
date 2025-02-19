@@ -39,6 +39,15 @@ const navLinks = [
     label: "Lesson 6 Fetch Errors End",
     href: "/6-end",
   },
+  {
+    label: "Lesson 7 Re-throwing Errors Begin",
+    href: "/7-begin",
+  },
+  {
+    label: "Lesson 7 Re-throwing Errors End",
+    href: "/7-end",
+  },
+
 ];
 
 const navHTML = /*html*/ `

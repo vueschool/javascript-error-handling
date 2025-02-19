@@ -31,6 +31,14 @@ const navLinks = [
     label: "Lesson 5 Async Code Errors End",
     href: "/5-end",
   },
+  {
+    label: "Lesson 6 Fetch Errors Begin",
+    href: "/6-begin",
+  },
+  {
+    label: "Lesson 6 Fetch Errors End",
+    href: "/6-end",
+  },
 ];
 
 const navHTML = /*html*/ `

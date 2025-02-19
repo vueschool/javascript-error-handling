@@ -24,11 +24,11 @@ const navLinks = [
     href: "/4-end",
   },
   {
-    label: "5 Begin",
+    label: "Lesson 5 Async Code Errors Begin",
     href: "/5-begin",
   },
   {
-    label: "5 End",
+    label: "Lesson 5 Async Code Errors End",
     href: "/5-end",
   },
 ];

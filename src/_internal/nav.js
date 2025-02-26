@@ -47,6 +47,22 @@ const navLinks = [
     label: "Lesson 7 Re-throwing Errors End",
     href: "/7-end",
   },
+  {
+    label: "Lesson 8 Notifying the User Begin",
+    href: "/8-begin",
+  },
+  {
+    label: "Lesson 8 Notifying the User End",
+    href: "/8-end",
+  },
+  {
+    label: "Lesson 9 Error Reporting for Devs Begin",
+    href: "/9-begin",
+  },
+  {
+    label: "Lesson 9 Error Reporting for Devs End",
+    href: "/9-end",
+  },
 
 ];
 
